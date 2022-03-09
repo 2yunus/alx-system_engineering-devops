@@ -1,2 +1,2 @@
 #!/bin/bash
-export $(1(28+$TRUEKNOWLEDGE)
+echo ((128+$TRUEKNOWLEDGE)
