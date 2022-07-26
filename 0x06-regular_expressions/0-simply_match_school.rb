@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-/School/
+puts argv[0].scan(/School/).join
